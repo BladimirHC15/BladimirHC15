@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bladimirhc15&label=Profile%20views&color=0e75b6&style=flat" alt="bladimirhc15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bladimirhc15" alt="bladimirhc15" /></a> </p>
-
 - 🔭 Proyecto desarrollado [Consejo Editorial](https://consejoeditorial.ciatej.mx/)
 
 - 🌱 Actualmente me encuentro aprendiendo **Redux**
