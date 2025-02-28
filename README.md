@@ -11,8 +11,6 @@
 
 - 🔭 Plantilla de negocio [haromultimedia](https://haromultimedia.netlify.app/)
 
-- 👨‍💻 Todos mis proyectos en [https://github.com/BladimirHC15](https://github.com/BladimirHC15)
-
 - 💬 Ask me about **React, HTML, JS**
 
 - 📫 Contactame! **bladimirhc15@gmail.com**
