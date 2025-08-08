@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bladimirhc15&label=Profile%20views&color=0e75b6&style=flat" alt="bladimirhc15" /> </p>
 
-- 🔭 Proyecto desarrollado [Consejo Editorial](https://consejoeditorial.ciatej.mx/)
+- 🔭 Proyectos desarrollados [Consejo Editorial](https://consejoeditorial.ciatj.mx) - [Convocatorias](https://intranet.ciatej.mx/convocatorias-externas)
 
 - 🌱 Actualmente me encuentro aprendiendo **Redux**
 
