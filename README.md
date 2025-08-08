@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Bladimir Haro</h1>
-<h3 align="center">Un desarrollador web con experiencia en frontend y backend.</h3>
+<h3 align="center">Un desarrollador web con experiencia en backend y frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bladimirhc15&label=Profile%20views&color=0e75b6&style=flat" alt="bladimirhc15" /> </p>
 
