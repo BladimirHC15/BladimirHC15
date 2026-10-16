@@ -5,7 +5,7 @@
 
 - 🔭 Proyectos desarrollados [Consejo Editorial](https://consejoeditorial.ciatj.mx) - [Convocatorias](https://intranet.ciatej.mx/convocatorias-externas)
 
-- 🌱 Actualmente me encuentro aprendiendo **Redux**
+- 🌱 Actualmente me encuentro aprendiendo Spring
 
 - 👯 Colaborando en el proyecto [CIATEJ](https://ciatej.mx/)
 
