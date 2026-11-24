@@ -11,6 +11,8 @@
 
 - 🔭 Plantilla de negocio [haromultimedia](https://haromultimedia.netlify.app/)
 
+- ⚙️ Desarrollando App Web para reservas fotográficas.
+
 - 💬 Ask me about **React, HTML, JS**
 
 - 📫 Contactame! **bladimirhc15@gmail.com**
