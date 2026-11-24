@@ -5,11 +5,13 @@
 
 - 🔭 Proyectos desarrollados [SICECI](https://siceci.ciatej.mx) - [Convocatorias](https://intranet.ciatej.mx/convocatorias-externas)
 
-- 🌱 Actualmente me encuentro aprendiendo Spring
+- 🌱 Actualmente me encuentro aprendiendo Microservicios con Java 21+ y Spring Boot
 
-- 👯 Colaborando en el proyecto [CIATEJ](https://ciatej.mx/)
+- 👯 Colaborando en proyectos [CIATEJ](https://ciatej.mx/), [SICECI](https://siceci.ciatej.mx/)
 
 - 🔭 Plantilla de negocio [haromultimedia](https://haromultimedia.netlify.app/)
+
+- ⚙️ Desarrollando plataforma de reservaciones fotográficas Nodejs, Express, React.
 
 - 💬 Ask me about **React, HTML, JS**
 
